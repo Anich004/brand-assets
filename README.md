@@ -66,3 +66,22 @@ The primary logo should always be used for social media icons and profile pictur
 ![Logo Usage](miscREADME/5-logousage.png)
 
 ---
+
+## Colour
+
+### The Colours
+
+The main brand accent colours are red and
+yellow, and should be used to add spice to the
+white and black backgrounds. Black and White
+text should be used only.
+
+![Colours](miscREADME/6-colour.png)
+
+### Colour Usage
+
+The primary colour scheme should be the red and yellow pairing to convey the brand colours, but where a monotone colour pairing is needed, black and white should be used.
+
+![alt text](miscREADME/7-colourusage.png)
+
+---
