@@ -4,7 +4,7 @@ The main brand accent colours are red and yellow, and should be used to add spic
 
 ## The Colours
 
-![Brand colour swatches showing red, yellow, white, and black squares arranged in a grid.](miscREADME/6-colour.png)
+![Brand colour swatches showing red, yellow, white, and black squares arranged in a grid.](Colours/6-colour.png)
 
 ## Colour Codes
 
