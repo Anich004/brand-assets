@@ -2,10 +2,6 @@
 
 The main brand accent colours are red and yellow, and should be used to add spice to the white and black backgrounds. Black and White text should be used only.
 
-## The Colours
-
-![Brand colour swatches showing red, yellow, white, and black squares arranged in a grid.](Colours/6-colour.png)
-
 ## Colour Codes
 
 | Colour | Red | Yellow | White | Black |
