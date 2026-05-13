@@ -1,3 +1,5 @@
+THIRD-PARTY SOFTWARE NOTICES AND LICENSES
+
 Uncut Sans:
 
 Copyright (c) 2022 Kasper Nordkvist.
