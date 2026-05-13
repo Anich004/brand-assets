@@ -1,6 +1,10 @@
-# AN Brand Guidelines
+# Releases
 
----
+### Latest Release
+
+Download the lastest release of the brand documentation here
+
+# AN Brand Guidelines
 
 ## Primary Logo
 
