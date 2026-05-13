@@ -17,10 +17,8 @@ The clear space of the logo mark is equal to 0.5x the height of the ‘A’ glyp
 
 ![Clear space and sizing](miscREADME/2-clearspaceminimumsize.png)
 
-```
-Minimum size, print 15mm
-Minimum size, digital 80px
-```
+> Minimum size, print 15mm
+> Minimum size, digital 80px
 
 ## Secondary Logo
 
@@ -37,10 +35,8 @@ The clear space of the secondary logo is equal to 0.5x the height of the ‘A’
 
 ![Secondary Logo Clear Space](miscREADME/4-clearspaceminuminsize.png)
 
-```
-Minimum size, print 15mm
-Minimum size, digital 80px
-```
+> Minimum size, print 15mm
+> Minimum size, digital 80px
 
 ![Secondary Logo](miscREADME/3-otherlogo.png)
 
@@ -51,10 +47,8 @@ The clear space of the secondary logo is equal to 0.5x the height of the ‘A’
 
 ![Secondary Logo Clear Space](miscREADME/4-clearspaceminuminsize.png)
 
-```
-Minimum size, print 15mm
-Minimum size, digital 80px
-```
+> Minimum size, print 15mm
+> Minimum size, digital 80px
 
 ## Logo Usage
 
@@ -87,6 +81,8 @@ The primary colour scheme should be the red and yellow pairing to convey the bra
 
 ## Typography
 
+> Uncut Sans is included in this repo under the SIL Open Font License 1.1
+
 ### Headline Typography
 
 Due to the versatility of Uncut Sans, it is used for both the headline and body typography for the brand. For headline uses, only the bold weight should be used.
@@ -103,9 +99,20 @@ For body text, the medium weight should be used, along with semi-bold for import
 
 Optical kerning should be used in conjunction with a tracking value of -20 for all type. The exact size of type heavily relies on context and content, so the following should be used only as a guide:
 
-```
-The recommended ratio of headline type size to body copy is 2:1.
-//
-The recommended ratio of headline type to footnote type size is around 2.5:1, with the resulting point size being rounded down.
-```
+![alt text](miscREADME/10-Typeface3.png)
+
+> The recommended ratio of headline type size to body copy is 2:1.
+ 
+>The recommended ratio of headline type to footnote type size is around 2.5:1, with the resulting point size being rounded down.
+
+---
+
+## Iconography
+
+>Phosphor icons are included in this repo under the MIT license.
+
+To keep the brand consistent across all platforms and endpoints, the recommended icon pack is the phosphor set of icons in bold.
+
+![alt text](miscREADME/11-icons.png)
+
 ---
