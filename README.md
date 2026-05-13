@@ -2,7 +2,7 @@
 
 ### Latest Release
 
-Download the lastest release of the brand documentation here
+[**Download the lastest release of the brand documentation here**](https://github.com/Anich004/brand-assets/releases/latest)
 
 # AN Brand Guidelines
 
