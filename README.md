@@ -42,7 +42,6 @@ Minimum size, print 15mm
 Minimum size, digital 80px
 ```
 
-
 ![Secondary Logo](miscREADME/3-otherlogo.png)
 
 ### Clear Space & Minimum Size
@@ -84,4 +83,29 @@ The primary colour scheme should be the red and yellow pairing to convey the bra
 
 ![alt text](miscREADME/7-colourusage.png)
 
+---
+
+## Typography
+
+### Headline Typography
+
+Due to the versatility of Uncut Sans, it is used for both the headline and body typography for the brand. For headline uses, only the bold weight should be used.
+
+![Headline Type](miscREADME/8-Typeface1.png)
+
+### Body Typography
+
+For body text, the medium weight should be used, along with semi-bold for important information. Subheadings should be set in the regular weight.
+
+![alt text](miscREADME/9-Typeface2.png)
+
+### Type Relationship
+
+Optical kerning should be used in conjunction with a tracking value of -20 for all type. The exact size of type heavily relies on context and content, so the following should be used only as a guide:
+
+```
+The recommended ratio of headline type size to body copy is 2:1.
+//
+The recommended ratio of headline type to footnote type size is around 2.5:1, with the resulting point size being rounded down.
+```
 ---
